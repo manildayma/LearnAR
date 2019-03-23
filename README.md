@@ -31,3 +31,8 @@ This can be solved which the help of AR which can help them to givr important in
 Prototypes are made before constructing any large building or any other infrastructure. To reduce this cost, model of
 AR can be used to view how infrastudture will look like and and what all possible defects are there.
 
+## Tech Stack Used :
+* Unity
+* Android Studio
+* Vuforia 
+* AR Core
