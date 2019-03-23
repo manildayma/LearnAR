@@ -1,4 +1,3 @@
-# HackBMU2019_DreamAr
 # AUGMENTED REALITY
 
 Augmented reality (AR) is a type of interactive, reality-based display environment that takes the capabilities of 
