@@ -22,7 +22,7 @@ there is some defect in the model then it is reconstructed. This adds a lot of c
 To avoid all the above listed problems and many other, AR can play a great role. 
 
 ## Applications/Use Cases :
-###Students : 
+### Students : 
 Students can learn with interactive models which can be brought in reality with the help of AR. They can not only see but also interact with models. For medical students of 11th and 12th standard , it is very hard to understand about body, bones and muscles. All they are shows in 2D diagrams or videos but with the help of AR they can view 3D models in their environment itself from any possible angle.
 ### Industries :
 Working of various large machines can be shown to new employees instead of just showing the model of the machine.
