@@ -12,7 +12,7 @@ The sole aim of this project is to solve to such problems, that is...
 * Learning and visualising about things which one hasn't seen is difficult. 
 Individaul is only dependent on his imagniations and imagination varies from person to person. 
 * Making kids sit at a place to study is a great task but they sit for hours peacefully in front of TV.
-As text books have static 2D images while Tv interesting as it has animations. 
+As text books have static 2D images while Tv is interesting as it has animations. 
 * Certain research models are difficult to visualise by the ones reading about them.
  For Example, a person has made a machine. Other person want to understand the working of
  that machine but he cannot do it by just reading, seeing 2D images and visualising.
@@ -22,9 +22,8 @@ there is some defect in the model then it is reconstructed. This adds a lot of c
 To avoid all the above listed problems and many other, AR can play a great role. 
 
 ## Applications/Use Cases :
-### Kids :
-Kids can learn with interactive models which can be brought in reality with the help of AR.
-They can not only see but also interact with models.
+###Students : 
+Students can learn with interactive models which can be brought in reality with the help of AR. They can not only see but also interact with models. For medical students of 11th and 12th standard , it is very hard to understand about body, bones and muscles. All they are shows in 2D diagrams or videos but with the help of AR they can view 3D models in their environment itself from any possible angle.
 ### Industries :
 Working of various large machines can be shown to new employees instead of just showing the model of the machine.
 This can be solved which the help of AR which can help them to givr important insights about the working of the machine.
